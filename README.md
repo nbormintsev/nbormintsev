@@ -65,13 +65,7 @@ I focus on building robust server-side applications and integrating AI agents in
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nbormintsev&show_icons=true&theme=radical" height="180" alt="stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nbormintsev&layout=compact&theme=radical" height="180" alt="languages" />
-</div>
-
-<div align="center">
   <br />
-  <!-- Замени ссылку на свой сайт/контакт -->
   <a href="https://bormintsev-studio.ru" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-bormintsev_studio-blue?style=for-the-badge&logo=safari" alt="Website">
   </a>
