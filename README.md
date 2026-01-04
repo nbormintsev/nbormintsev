@@ -1,23 +1,78 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=bun+run+resume.tsx)](https://git.io/typing-svg)
+<!-- Typing SVG: Dynamic header -->
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=3572A5&center=true&vCenter=true&width=500&lines=Middle+Backend+Developer+(Python);Building+High-Load+FinTech+Services;Integrating+AI+%26+LLM+Solutions;FastAPI+%7C+PostgreSQL+%7C+ClickHouse" alt="Typing SVG" />
+  </a>
+</div>
 
-<h1 align="center">Backend-разработчик с опытом работы 3 года</h1>
-<h3 align="center">Самостоятельно выполняю задачи, имею опыт работы с серверными API и с оптимизацией производительности приложения</h3>
+<div align="center">
 
-- 🌱 Опыт командной разработки
+# Hi there, I'm Nikita! 👋
 
-- 🌍 Готовность работать удаленно
+**Backend Developer with 3 years of experience** specializing in architecture design, data engineering, and performance optimization.
 
-### Languages:
-<p align="left"> 
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://github.com/nbormintsev/nbormintsev/blob/main/icons/python.svg" alt="python" width="40" height="40"/> </a> 
-<a href="https://www.typescriptlang.org" target="_blank" rel="noreferrer"> <img src="https://github.com/nbormintsev/nbormintsev/blob/main/icons/typescript.svg" alt="python" width="40" height="40"/> </a>
+</div>
+
+---
+
+### 🚀 About Me
+
+I focus on building robust server-side applications and integrating AI agents into business flows.
+
+- 🔭 I’m currently working on **Crypto Trading Platforms & AI Validators**
+- 🛠️ Deep expertise in **Python (FastAPI)** and **SQL optimization**
+- 🤝 Experienced in **Mentoring** and setting up development processes
+- 🌱 T-Shaped skills: **Next.js**, **Docker**, **DevOps basics**
+- 🌍 Open to remote collaboration
+
+---
+
+### 🛠️ Technical Stack
+
+**Languages**
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
 </p>
 
-### Tools:
-<p align="left"> 
-<a href="https://www.jetbrains.com/pycharm/" target="_blank" rel="noreferrer"> <img src="https://github.com/nbormintsev/nbormintsev/blob/main/icons/pycharm.svg" alt="pycharm" width="40" height="40"/> </a>
-<a href="https://www.jetbrains.com/webstorm/" target="_blank" rel="noreferrer"> <img src="https://github.com/nbormintsev/nbormintsev/blob/main/icons/webstorm.svg" alt="webstorm" width="40" height="40"/> </a>
-<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/nbormintsev/nbormintsev/blob/main/icons/vs-code.svg" alt="vscode" width="40" height="40"/> </a>
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/nbormintsev/nbormintsev/blob/main/icons/figma.svg" alt="figma" width="40" height="40"/> </a>
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/nbormintsev/nbormintsev/blob/main/icons/docker.svg" alt="docker" width="40" height="40"/> </a>
+**Backend & Frameworks**
+<p>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
 </p>
+
+**Databases & Data Engineering**
+<p>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/ClickHouse-FFCC01?style=for-the-badge&logo=clickhouse&logoColor=black" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
+  <img src="https://img.shields.io/badge/Microsoft%20SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
+</p>
+
+**DevOps & Tools**
+<p>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nbormintsev&show_icons=true&theme=radical" height="180" alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nbormintsev&layout=compact&theme=radical" height="180" alt="languages" />
+</div>
+
+<div align="center">
+  <br />
+  <!-- Замени ссылку на свой сайт/контакт -->
+  <a href="https://bormintsev-studio.ru" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-bormintsev_studio-blue?style=for-the-badge&logo=safari" alt="Website">
+  </a>
+</div>
