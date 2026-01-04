@@ -62,8 +62,6 @@ I focus on building robust server-side applications and integrating AI agents in
 
 ---
 
-### 📊 GitHub Stats
-
 <div align="center">
   <br />
   <a href="https://bormintsev-studio.ru" target="_blank">
