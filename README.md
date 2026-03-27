@@ -17,7 +17,7 @@ validation platforms.
 
 ---
 
-### 🚀 About Me
+### About Me
 
 I focus on building robust server-side applications and integrating AI agents into business flows.
 
@@ -29,7 +29,7 @@ I focus on building robust server-side applications and integrating AI agents in
 
 ---
 
-### 🛠️ Technical Stack
+### Technical Stack
 
 **Languages**
 <p>
