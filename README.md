@@ -9,7 +9,9 @@
 
 # Hi there, I'm Nikita! 👋
 
-**Backend Developer with 3 years of experience** specializing in architecture design, data engineering, and performance optimization.
+**Backend Developer with 3 years of commercial experience** building 
+reliable Python services — from FinTech trading systems to AI-powered 
+validation platforms.
 
 </div>
 
@@ -19,11 +21,11 @@
 
 I focus on building robust server-side applications and integrating AI agents into business flows.
 
-- 🔭 I’m currently working on **Crypto Trading Platforms & AI Validators**
-- 🛠️ Deep expertise in **Python (FastAPI)** and **SQL optimization**
-- 🤝 Experienced in **Mentoring** and setting up development processes
-- 🌱 T-Shaped skills: **Next.js**, **Docker**, **DevOps basics**
-- 🌍 Open to remote collaboration
+- Currently working on **Music Marketing Systems & AI Validators**
+- Experienced in **Python (FastAPI)**, async code and **SQL**
+- Participated in code review and onboarding of junior developers
+- T-shaped: **Next.js/React**, **Docker**, **CI/CD**
+- Open to remote collaboration
 
 ---
 
@@ -47,8 +49,6 @@ I focus on building robust server-side applications and integrating AI agents in
 **Databases & Data Engineering**
 <p>
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/ClickHouse-FFCC01?style=for-the-badge&logo=clickhouse&logoColor=black" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
   <img src="https://img.shields.io/badge/Microsoft%20SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
 </p>
 
