@@ -1,7 +1,7 @@
 <!-- Typing SVG: Dynamic header -->
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=3572A5&center=true&vCenter=true&width=500&lines=Middle+Backend+Developer+(Python);Building+High-Load+FinTech+Services;Integrating+AI+%26+LLM+Solutions;FastAPI+%7C+PostgreSQL+%7C+ClickHouse" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=3572A5&center=true&vCenter=true&width=500&lines=Middle+Backend+Developer+(Python);Building+High-Load+FinTech+Services;Integrating+AI+%26+LLM+Solutions;FastAPI+%7C+PostgreSQL+%7C+MSSQL" alt="Typing SVG" />
   </a>
 </div>
 
