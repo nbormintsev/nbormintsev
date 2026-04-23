@@ -1,15 +1,15 @@
 ### About
 
-Backend Developer · Python · FastAPI · AI Integrations
+**Backend Developer** · Python · FastAPI · AI Integrations
 
-Three years of commercial experience building reliable Python services - from FinTech trading platforms to production AI.<br>
+Three years of commercial experience building reliable Python services — from FinTech trading platforms to production AI.<br>
 Currently designing backend for a B2B marketing automation platform for a music label.
 
 ### What I work with
 
-**Core** - Python, FastAPI, AsyncIO, Pydantic, SQLAlchemy<br>
-**Data** - PostgreSQL, MS SQL<br>
-**Infra** - Docker, GitHub Actions
+**Core** — Python, FastAPI, AsyncIO, Pydantic, SQLAlchemy<br>
+**Data** — PostgreSQL, MS SQL<br>
+**Infra** — Docker, GitHub Actions
 
 ### Recent work
 
