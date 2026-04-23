@@ -7,11 +7,11 @@
 
 Backend Developer with 3 years of commercial experience building reliable Python services — from FinTech trading platforms to production AI services.
 
-- 🔭 Currently building a B2B marketing automation platform for a music label
-- 🧠 Into async Python, clean architectures, and shipping AI into real products
-- 🏗️ Recent work: async trading bots across 6 exchanges, a multi-tenant RAG service, AI-powered content validators
-- 👥 Participated in code review and onboarding of junior developers
-- 🌍 Open to remote collaboration
+- Currently building a B2B marketing automation platform for a music label
+- Into async Python, clean architectures, and shipping AI into real products
+- Recent work: async trading bots across 6 exchanges, a multi-tenant RAG service, AI-powered content validators
+- Participated in code review and onboarding of junior developers
+- Open to remote collaboration
 
 ---
 
