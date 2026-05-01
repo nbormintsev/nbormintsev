@@ -1,6 +1,6 @@
 ### About
 
-**Backend Developer** · Python · FastAPI · AI Integrations
+**Backend Developer** · Python · FastAPI · FinTech · AI Integrations
 
 Three years of commercial experience building reliable Python services — from FinTech trading platforms to production AI.<br>
 Currently designing backend for a B2B marketing automation platform for a music label.
